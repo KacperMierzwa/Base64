@@ -1,6 +1,6 @@
 # Lightweight base64 encoder and decoder made in c
 
-You can encode/decode string and files using these simple flags:
+You can encode/decode string and files using these simple options:
 
     -h : display help message
     -d : decode (program encodes by default)
@@ -10,6 +10,6 @@ You can encode/decode string and files using these simple flags:
     -o <file>   : output file (required with -f option)
 
 
-The program is compiles using gcc.
+The program compiles using gcc.
 
 I will add makefile later.
