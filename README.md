@@ -1,4 +1,4 @@
-# Lightweight base64 encoder and decoder made entirely in c
+# Lightweight base64 encoder and decoder made in c
 
 You can encode/decode string and files using these simple flags:
 
